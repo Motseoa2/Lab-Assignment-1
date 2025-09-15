@@ -7,9 +7,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
@@ -24,9 +22,6 @@
     "recharts": "^3.2.0",
     "xlsx": "^0.18.5"
   },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -39,5 +34,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Motseoa2.github.io/lab-assignment1"
+  "homepage": "."
 }
